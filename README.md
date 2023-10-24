@@ -1,5 +1,10 @@
 # www.twinizer.com
 
+
++ twingenify
+
+
+
 ### Digital Twin Generation:
 The SaaS platform could provide tools and features to easily create digital twin models or representations of physical objects, systems, or processes.
 
